@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "Reflection.html",
+    "href": "Reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "For this assessment, I primarily used Claude."
+  },
+  {
+    "objectID": "Reflection.html#what-genai-tool-did-i-use",
+    "href": "Reflection.html#what-genai-tool-did-i-use",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "For this assessment, I primarily used Claude."
+  },
+  {
+    "objectID": "Reflection.html#why-did-i-choose-claude",
+    "href": "Reflection.html#why-did-i-choose-claude",
+    "title": "Reflection on the use of GenAI",
+    "section": "Why Did I Choose Claude?",
+    "text": "Why Did I Choose Claude?\nI chose Claude because it is particularly good with technical code. When working with programming languages like R, HTML, CSS, and creating Quarto websites, I leveraged Claude’s ability to handle complex coding tasks and explain technical concepts made it the ideal choice for this project. To help ensure that I am not just vibe coding but also understanding the individual process at each stage and how the different building blocks work separately."
+  },
+  {
+    "objectID": "Reflection.html#how-did-claude-help-me-complete-the-assessment",
+    "href": "Reflection.html#how-did-claude-help-me-complete-the-assessment",
+    "title": "Reflection on the use of GenAI",
+    "section": "How Did Claude Help Me Complete the Assessment?",
+    "text": "How Did Claude Help Me Complete the Assessment?\nClaude assisted me in numerous ways throughout this assessment:\nExample 1: Setting Up Quarto Projects\n\nWhen I was confused about how to create a Quarto website project in RStudio, Claude provided step-by-step instructions with clear explanations. It helped me understand which options to select and why, such as not checking the “Create a git repository” box for a temporary website as well as uploading and commiting my files to github and debugging.\n\n\nExample 2: CSS Customization\nI wanted to change the font styling of my website. Claude showed me exactly how to modify the CSS code, explaining that font names with spaces need quotation marks and providing fallback options for better compatibility."
+  },
+  {
+    "objectID": "Reflection.html#what-are-the-benefits-of-using-claude",
+    "href": "Reflection.html#what-are-the-benefits-of-using-claude",
+    "title": "Reflection on the use of GenAI",
+    "section": "What Are the Benefits of Using Claude?",
+    "text": "What Are the Benefits of Using Claude?\n\nPatient explanations: I can ask basic or simple questions that seem obvious, and always receive clear, detailed step by step answers\nLearning tool: Beyond just giving answers, Claude explained concepts so I could understand the “why” behind solutions\nIterative problem-solving: I could ask follow-up questions and refine my work through conversation"
+  },
+  {
+    "objectID": "Reflection.html#what-are-the-challenges-of-using-claude",
+    "href": "Reflection.html#what-are-the-challenges-of-using-claude",
+    "title": "Reflection on the use of GenAI",
+    "section": "What Are the Challenges of Using Claude?",
+    "text": "What Are the Challenges of Using Claude?\n\nVerification needed: I still needed to check that the code worked correctly and made sense for my specific context\nContext limitations: Sometimes I had to provide additional details or clarify my questions when Claude didn’t fully understand what I needed\nDependency risk: There’s a temptation to rely too heavily on AI without developing my own problem-solving skills"
+  },
+  {
+    "objectID": "Reflection.html#how-will-genai-tools-assist-my-future-study-or-work",
+    "href": "Reflection.html#how-will-genai-tools-assist-my-future-study-or-work",
+    "title": "Reflection on the use of GenAI",
+    "section": "How Will GenAI Tools Assist My Future Study or Work?",
+    "text": "How Will GenAI Tools Assist My Future Study or Work?\nI believe GenAI tools like Claude will be instrumental in helping me differentiate myself in both academic and professional settings. As technology evolves, the ability to effectively leverage AI tools will become a valuable skill. I can use Claude to:\n\nAccelerate my learning of new programming languages and frameworks\nQuickly prototype ideas and solutions\nDebug complex code more efficiently\n\nRather than replacing my skills, I see GenAI as an amplifier that allows me to work more efficiently and tackle more ambitious projects. Those who can effectively collaborate with AI tools will have a competitive advantage in the job market, as a digital native."
+  },
+  {
+    "objectID": "Reflection.html#additional-thoughts",
+    "href": "Reflection.html#additional-thoughts",
+    "title": "Reflection on the use of GenAI",
+    "section": "Additional Thoughts",
+    "text": "Additional Thoughts\nUsing Claude for this assessment has been an eye-opening experience. It made me realize that the future of work isn’t about competing with AI, but about learning to work alongside it effectively. The key is maintaining a balance: using AI to enhance productivity while continuing to develop fundamental understanding and critical thinking skills.\nI’ve also learned that asking good questions is a skill in itself. The quality of AI assistance depends heavily on how well I can communicate my needs and provide context. This has improved my ability to articulate problems clearly, which is valuable beyond just working with AI and prompt engineering.\nOverall, this experience has shown me that GenAI tools are powerful allies in learning and creating, but they work best when guided by human creativity, judgment, and domain knowledge."
+  },
+  {
+    "objectID": "DataVis.html",
+    "href": "DataVis.html",
+    "title": "Data Visualisation",
+    "section": "",
+    "text": "Chemical Properties and Quality Ratings of Wines\n\n\nThis visualization project explores a dataset of 4,898 white wines, analyzing the relationship between their chemical properties and quality ratings. Through careful data visualization in Power BI, I aim to uncover patterns that distinguish high-quality wines from average ones.\nTop left card: Total sulfur dioxide value (728 Mil) Gauge chart: Shows sulfur dioxide distribution with volatile acidity and sulphates (ranging from 173 Mil to 215 Mil, with 728 Mil total) Stacked bar chart: Compares sulfur dioxide, quality, and sulphates in proportions Clustered column chart: Shows relationships between sulfur dioxide, density, citric acid, and chlorides Large horizontal bar chart: Displays all wine properties (volatile acidity, sulfur dioxide, sulphates, sugar, quality, pH, acidity, density, citric acid, chlorides, and alcohol) with their relative values. Density shows the highest value (256 Mi), while alcohol shows a negative value (-529 Mil)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "My Recent Projects",
+    "section": "",
+    "text": "Year 1: Web Systems Simple Platformer in Python Object Oriented Programming\nYear 2: Cloud Computing: https://github.com/2402425-hayden/cloudcomputing Financial Modelling\nHackathons: Ai Eyes: https://github.com/derrickwzb/AIEyes"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to Jeanie’s Page",
+    "section": "",
+    "text": "Hi everyone! I am Jeanie, a CS student currently studying in Singapore Institute of Technology.\nI’m excited to share some of the projects I’ve been working on with you, and hope that you get a hit of inspiration while exploring my site.\nSome of my hobbies include adventuring, playing team games and hosting events. I also volunteer occasionally with the Visible Circle, an initiative to support people with chronic pain.\nI like being active! Classpass is my go-to but I do run, play tennis and recently picked up golf too!\nHere is my linkedin profile if you want to see more of what I’ve been up to: https://www.linkedin.com/in/jeanie-chua/\nHave a good day!"
+  }
+]
