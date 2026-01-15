@@ -1,6 +1,12 @@
 # .github.io
 my personal website
 
+## Current Status
+
+✅ Folder structure is now organized
+✅ Image references are properly configured  
+✅ Ready to add images to the `img/` folder
+
 ## Folder Structure
 
 ```
@@ -24,6 +30,11 @@ Place all image files in the `img/` folder. Reference them in your Quarto docume
 ```markdown
 ![Alt text](img/your-image.jpg)
 ```
+
+To add images to your repository:
+1. Copy your image files into the `img/` folder
+2. Stage and commit them: `git add img/your-image.jpg`
+3. Push to GitHub: `git push`
 
 ### Source Files
 - Keep `.qmd` (Quarto markdown) files in the root directory
