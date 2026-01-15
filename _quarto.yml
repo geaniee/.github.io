@@ -4,22 +4,16 @@ project:
 
 website:
   title: "Jeanie's Personal Site"
-  favicon: (img\project.jpg)
+  favicon: img/project.jpg
   navbar:
-    logo: (img\nav.jpg)
+    logo: img/nav.jpg
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-<<<<<<< HEAD
       - href: DataVis.qmd
         text: Data Visualization
-      - href: Reflection.html
-=======
-      - href: datavis.qmd
-        text: Data Visualization
-      - href: reflection.html
->>>>>>> f1a6d31abf54287acc6f3fb874f864948381c7ae
+      - href: Reflection.qmd
         text: Reflection
 
 format:
