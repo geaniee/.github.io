@@ -1,0 +1,9 @@
+---
+title: "My Recent Projects"
+---
+
+Year 1: Web Systems Simple Platformer in Python Object Oriented Programming
+
+Year 2: Cloud Computing: https://github.com/2402425-hayden/cloudcomputing Financial Modelling
+
+Hackathons: Ai Eyes: https://github.com/derrickwzb/AIEyes

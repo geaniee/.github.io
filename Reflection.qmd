@@ -1,0 +1,63 @@
+---
+title: "Reflection on the use of GenAI"
+---
+
+## What GenAI Tool Did I Use?
+
+For this assessment, I primarily used **Claude**.
+
+## Why Did I Choose Claude?
+
+I chose Claude because it is particularly good with technical code. When working with programming languages like R, HTML, CSS, and creating Quarto websites, I leveraged Claude's ability to handle complex coding tasks and explain technical concepts made it the ideal choice for this project. To help ensure that I am not just vibe coding but also understanding the individual process at each stage and how the different building blocks work separately.
+
+## How Did Claude Help Me Complete the Assessment?
+
+Claude assisted me in numerous ways throughout this assessment:
+
+::: highlight
+**Example 1: Creating Visualizations**
+
+I uploaded my wine quality dataset (CSV file) and asked Claude to create specific visualizations. Claude generated both a bar chart showing the distribution of wine quality ratings and a correlation heatmap displaying relationships between different wine properties. This saved me hours of coding and allowed me to focus on interpreting the results.
+:::
+
+::: highlight
+**Example 2: Setting Up Quarto Projects**
+
+When I was confused about how to create a Quarto website project in RStudio, Claude provided step-by-step instructions with clear explanations. It helped me understand which options to select and why, such as not checking the "Create a git repository" box for a temporary website as well as uploading and commiting my files to github and debugging.
+:::
+
+::: highlight
+**Example 3: CSS Customization**
+
+I wanted to change the font styling of my website. Claude showed me exactly how to modify the CSS code, explaining that font names with spaces need quotation marks and providing fallback options for better compatibility.
+:::
+
+## What Are the Benefits of Using Claude?
+
+-   **Patient explanations:** I can ask basic or simple questions that seem obvious, and always receive clear, detailed step by step answers
+-   **Learning tool:** Beyond just giving answers, Claude explained concepts so I could understand the "why" behind solutions
+-   **Iterative problem-solving:** I could ask follow-up questions and refine my work through conversation
+
+## What Are the Challenges of Using Claude?
+
+-   **Verification needed:** I still needed to check that the code worked correctly and made sense for my specific context
+-   **Context limitations:** Sometimes I had to provide additional details or clarify my questions when Claude didn't fully understand what I needed
+-   **Dependency risk:** There's a temptation to rely too heavily on AI without developing my own problem-solving skills
+
+## How Will GenAI Tools Assist My Future Study or Work?
+
+I believe GenAI tools like Claude will be instrumental in helping me differentiate myself in both academic and professional settings. As technology evolves, the ability to effectively leverage AI tools will become a valuable skill. I can use Claude to:
+
+-   Accelerate my learning of new programming languages and frameworks
+-   Quickly prototype ideas and solutions
+-   Debug complex code more efficiently
+
+Rather than replacing my skills, I see GenAI as an amplifier that allows me to work more efficiently and tackle more ambitious projects. Those who can effectively collaborate with AI tools will have a competitive advantage in the job market, as a digital native.
+
+## Additional Thoughts
+
+Using Claude for this assessment has been an eye-opening experience. It made me realize that the future of work isn't about competing with AI, but about learning to work alongside it effectively. The key is maintaining a balance: using AI to enhance productivity while continuing to develop fundamental understanding and critical thinking skills.
+
+I've also learned that asking good questions is a skill in itself. The quality of AI assistance depends heavily on how well I can communicate my needs and provide context. This has improved my ability to articulate problems clearly, which is valuable beyond just working with AI and prompt engineering.
+
+Overall, this experience has shown me that GenAI tools are powerful allies in learning and creating, but they work best when guided by human creativity, judgment, and domain knowledge.

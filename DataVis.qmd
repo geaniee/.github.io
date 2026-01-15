@@ -1,0 +1,14 @@
+---
+title: "DataVis"
+format: html
+---
+
+
+---
+
+
+![Chemical Properties and Quality Ratings of Wines](img\wine.jpg)
+
+This visualization project explores a dataset of 4,898 white wines, analyzing the relationship between their chemical properties and quality ratings. Through careful data visualization in Power BI, I aim to uncover patterns that distinguish high-quality wines from average ones.
+
+Top left card: Total sulfur dioxide value (728 Mil) Gauge chart: Shows sulfur dioxide distribution with volatile acidity and sulphates (ranging from 173 Mil to 215 Mil, with 728 Mil total) Stacked bar chart: Compares sulfur dioxide, quality, and sulphates in proportions Clustered column chart: Shows relationships between sulfur dioxide, density, citric acid, and chlorides Large horizontal bar chart: Displays all wine properties (volatile acidity, sulfur dioxide, sulphates, sugar, quality, pH, acidity, density, citric acid, chlorides, and alcohol) with their relative values. Density shows the highest value (256 Mi), while alcohol shows a negative value (-529 Mil)

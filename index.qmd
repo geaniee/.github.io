@@ -1,0 +1,19 @@
+---
+title: "Welcome to Jeanie's Page"
+---
+
+Hi everyone! I am Jeanie, a CS student currently studying in Singapore Institute of Technology.
+
+I'm excited to share some of the projects I've been working on with you, and hope that you get a hit of inspiration while exploring my site.
+
+Some of my hobbies include adventuring, playing team games and hosting events. I also volunteer occasionally with the Visible Circle, an initiative to support people with chronic pain.
+
+I like being active! Classpass is my go-to but I do run, play tennis and recently picked up golf too!
+
+Here is my linkedin profile if you want to see more of what I've been up to: <https://www.linkedin.com/in/jeanie-chua/>
+
+Have a good day!
+
+```{r}
+
+```
